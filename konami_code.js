@@ -36,7 +36,6 @@ function KeyDownP(e)
     index=0;
   }
   
-  
 }
 
 
