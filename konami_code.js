@@ -15,7 +15,7 @@ function init()
 {
   // your code here
      document.body.addEventListener("keydown", (event) => {
-     KeyDownP(e);
+     KeyDownP(event);
   })
 }
 let index =0;
