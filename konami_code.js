@@ -36,7 +36,7 @@ function KeyDownP(e)
     index=0;
   }
   
-    for(key in codes)
+    if(key in codes)
     {
       
     }
