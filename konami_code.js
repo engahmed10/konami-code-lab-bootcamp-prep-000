@@ -15,9 +15,11 @@ function init()
 {
   // your code here
    document.body.addEventListener("keydown", (event) => {
-    
+     //KeyDownP(e)
   })
-  function KeyDownP(e)
+}
+let index =0;
+function KeyDownP(e)
 {
   const key =e.key;
   if(key === codes[index])
@@ -34,8 +36,5 @@ function init()
   }
   
 }
-
-}
-let index =0;
 
 
