@@ -35,9 +35,8 @@ function KeyDownP(e)
   {
     index=0;
   }
-  for(var i=0;i<codes;i++)
-  {
-    if(key === codes[i])
+  
+    for(key in codes)
     {
       
     }
