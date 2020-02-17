@@ -36,14 +36,6 @@ function KeyDownP(e)
     index=0;
   }
   
-    if(key in codes)
-    {
-      
-    }else
-    {
-      
-    }
-  }
   
 }
 
